@@ -118,4 +118,4 @@ The notebook that contains the project can be found here: [notebook](https://git
 
 The presentation for this project can be found here: [pdf](https://github.com/Dominic-Oseko/H1N1-and-Seasonal-Flu-Vaccines-project/blob/main/Presentation.pdf)
 
-The slides for this project can be found here: [pdf]()
+The slides for this project can be found here: [pdf](https://github.com/Dominic-Oseko/H1N1-and-Seasonal-Flu-Vaccines-project/blob/main/H1N1%20and%20Seasonal%20Flu%20Vaccines%20slides.pdf)

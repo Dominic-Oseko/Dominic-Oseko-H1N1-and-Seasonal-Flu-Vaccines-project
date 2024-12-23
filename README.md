@@ -110,7 +110,7 @@ coverage. These insights can also be applied to improve public confidence in vac
  through tailored educational materials, especially in communities with lower educational
  attainment.
 ## Repository Guide
-The data used for the project can be found here: [data]()
+The data used for the project can be found here: [data](https://github.com/Dominic-Oseko/H1N1-and-Seasonal-Flu-Vaccines-project/tree/main/Data)
 
 The images from EDA can be found here: [images]()
 

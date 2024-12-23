@@ -112,7 +112,7 @@ coverage. These insights can also be applied to improve public confidence in vac
 ## Repository Guide
 The data used for the project can be found here: [data](https://github.com/Dominic-Oseko/H1N1-and-Seasonal-Flu-Vaccines-project/tree/main/Data)
 
-The images from EDA can be found here: [images]()
+The images from EDA can be found here: [images](https://github.com/Dominic-Oseko/H1N1-and-Seasonal-Flu-Vaccines-project/tree/main/Images)
 
 The notebook that contains the project can be found here: [notebook]()
 

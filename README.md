@@ -116,4 +116,6 @@ The images from EDA can be found here: [images](https://github.com/Dominic-Oseko
 
 The notebook that contains the project can be found here: [notebook](https://github.com/Dominic-Oseko/H1N1-and-Seasonal-Flu-Vaccines-project/blob/main/Seasonal_flu_Project.ipynb)
 
-The presentation for this project can be found here: [pdf]()
+The presentation for this project can be found here: [pdf](https://github.com/Dominic-Oseko/H1N1-and-Seasonal-Flu-Vaccines-project/blob/main/Presentation.pdf)
+
+The slides for this project can be found here: [pdf]()
